@@ -1,7 +1,6 @@
 # Spotify Stats Server
 
 View and observe your top artists and tracks from your Spotify profile.
-Your spotify profile's top artists and tracks with charts and playlist creator.
 
 ## Installation
 
