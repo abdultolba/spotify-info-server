@@ -1,4 +1,4 @@
-# Spotify Stats Server
+# Spotify Info Server
 
 View and observe your top artists and tracks from your Spotify profile.
 
